@@ -1,4 +1,4 @@
-### Sup, I'm BlaNK
+<div align="center">Sup, I'm BlaNK</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=BlaNKtext" alt="yus"/> </p>
 
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-1/754477506660139040.png" alt="Discord"/> </p>
