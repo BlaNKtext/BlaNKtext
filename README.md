@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-1/754477506660139040.png" alt="Discord"/> </p>
 <br/>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlaNKtext&count_private=true&show_icons=true&theme=tokyonight&hide_border"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlaNKtext&count_private=true&show_icons=true&theme=tokyonight&hide_border&layout=compact"/>
   <br>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlaNKtext&count_private=true&show_icons=true&theme=tokyonight&hide_border&line_height=21" alt='BlaNK' github stats"/>
