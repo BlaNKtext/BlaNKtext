@@ -1,7 +1,7 @@
 <div align="center">Sup, I'm BlaNK</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=BlaNKtext" alt="Dead"/> </p>
 
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-1/754477506660139040.png" alt="Discord"/> </p>
+<p align="center"> <img src="https://lanyard-profile-readme.vercel.app/api/754477506660139040" alt="Discord"/> </p>
 <br/>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlaNKtext&count_private=true&show_icons=true&theme=tokyonight&hide_border&layout=compact"/>
