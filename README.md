@@ -1,10 +1,8 @@
 <div align="center">Sup, I'm BlaNK</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=BlaNKtext" alt="Dead"/> </p>
 
-<p align="center"> <img src="https://lanyard-profile-readme.vercel.app/api/754477506660139040" alt="Discord"/> </p>
-<br/>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlaNKtext&count_private=true&show_icons=true&theme=tokyonight&hide_border&layout=compact"/>
+<p align="center"> <img src="https://lanyard-profile-readme.vercel.app/api/754477506660139040" alt="Discord"/><p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlaNKtext&count_private=true&show_icons=true&theme=tokyonight&hide_border&layout=compact"/>
   <p align="center">
 <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js">
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5"/>
